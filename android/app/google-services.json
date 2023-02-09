@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229307034358",
+    "project_id": "peterjustesen-37e4f",
+    "storage_bucket": "peterjustesen-37e4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229307034358:android:08e9d6c3b771fd03b4dad7",
+        "android_client_info": {
+          "package_name": "com.example.peterjustesen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229307034358-48jtaf16qthro0lgqb8bqjhtk01a1m3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxg9AJijTWY74d_RDpGU23ARWzvpg0aRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229307034358-48jtaf16qthro0lgqb8bqjhtk01a1m3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

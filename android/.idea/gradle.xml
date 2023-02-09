@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Setups/gradle-7.4" />
+        <option name="gradleJvm" value="Android Studio default JDK" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/../../../../../Setups/flutter_3.3.0/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-4.3.0/android" />
+            <option value="$PROJECT_DIR$/../../../../../Setups/flutter_3.3.0/.pub-cache/hosted/pub.dartlang.org/connectivity_plus-3.0.2/android" />
+            <option value="$PROJECT_DIR$/../../../../../Setups/flutter_3.3.0/.pub-cache/hosted/pub.dartlang.org/firebase_auth-4.2.3/android" />
+            <option value="$PROJECT_DIR$/../../../../../Setups/flutter_3.3.0/.pub-cache/hosted/pub.dartlang.org/firebase_core-2.4.1/android" />
+            <option value="$PROJECT_DIR$/../../../../../Setups/flutter_3.3.0/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-14.2.1/android" />
+            <option value="$PROJECT_DIR$/../../../../../Setups/flutter_3.3.0/.pub-cache/hosted/pub.dartlang.org/flutter_keyboard_visibility-5.4.0/android" />
+            <option value="$PROJECT_DIR$/../../../../../Setups/flutter_3.3.0/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-13.0.0/android" />
+            <option value="$PROJECT_DIR$/../../../../../Setups/flutter_3.3.0/.pub-cache/hosted/pub.dartlang.org/flutter_native_splash-2.2.16/android" />
+            <option value="$PROJECT_DIR$/../../../../../Setups/flutter_3.3.0/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.1.1/android" />
+            <option value="$PROJECT_DIR$/../../../../../Setups/flutter_3.3.0/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.22/android" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
